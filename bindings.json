@@ -1,0 +1,41 @@
+{
+    "Alt-.": "PlayMacro",
+    "Alt-/": "lua:comment.comment",
+    "Alt-Down": "FindNext",
+    "Alt-M": "ToggleMacro",
+    "Alt-Up": "FindPrevious",
+    "Alt-d": "SelectLine,Delete",
+    "Alt-a": "SelectAll",
+    "Alt-b": "CursorPageDown",
+    "Alt-c": "Copy",    
+    "Alt-e": "CommandMode",
+    "Alt-h": "CursorLeft",
+    "Alt-j": "CursorDown",
+    "Alt-k": "CursorUp",
+    "Alt-l": "CursorRight",
+    "Alt-m": "EndOfLine",
+    "Alt-n": "StartOfLine",
+    "Alt-o": "NextSplit",
+    "Alt-p": "CursorPageUp",
+    "Alt-q": "Quit",
+    "Alt-s": "Save",
+    "Alt-v": "Paste",
+    "Alt-x": "Cut",
+    "Alt-z": "Undo",
+    "CtrlUnderscore": "lua:comment.comment",
+    "command": {
+        "Alt-c": "Copy",
+        "Alt-h": "CursorLeft",
+        "Alt-l": "CursorRight",
+        "Alt-m": "EndOfLine",
+        "Alt-n": "StartOfLine",
+        "Alt-q": "AbortCommand",
+        "Alt-s": "Save",
+        "Alt-v": "Paste",
+        "Alt-x": "Cut"
+    },
+    "terminal": {
+        "\u003cAlt-o\u003e": "NextSplit",
+        "\u003cAlt-q\u003e": "Exit"
+    }
+}
