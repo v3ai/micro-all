@@ -51,6 +51,16 @@ updates
 
 well I removed a fair bit of the bindings to free up other keys for more useful things
 
+
+
 I removed the bindings for d,r,f, T, u, i,g, overall they werent all that useful, i and u specifically are prime real estate
 o was a tough one, but i can think of no better way that I like to switch between two pannels, it's really good e is still great and 
 can be used for lots of the others because it's command mode and the others that were lost were mostly commands
+
+^ might not be accurate need to update again
+
+also you should install xclip to make copying things easier
+
+```
+sudo apt-get install xclip
+```
