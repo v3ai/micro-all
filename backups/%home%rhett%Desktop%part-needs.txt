@@ -1,0 +1,35 @@
+
+
+order 10 more of each tht resistor  IMPORANT! 4.7MEGA NEEDS 1%
+order 10 more of each smd resistor
+order 10 more of each tht capacitor
+order 10 more of each smd capacitor 
+
+
+
+-- order 5 more audio jacks
+-- order 5 more 9 conns
+
+-- order 10 more 15 position pin
+
+-- order 10 more male spades
+
+-- order 10 more clips
+
+-- order 10 more leds
+
+-- order 5 more tl5001
+
+-- order 5 more lmc555
+
+-- order 10 more 600v mosfets
+
+-- order 5 more 5V 500mah regulators
+
+-- order 10 more 1 mili henry inductors
+
+find old instructions on how to assemble from rev7 zip on email
+
+
+
+
