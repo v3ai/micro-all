@@ -1,9 +1,9 @@
 {
     "Alt-3": "PlayMacro",
     "Alt-/": "lua:comment.comment",
-    "Down": "FindNext",
+    "Ctrl-j": "FindNext",
     "Alt-2": "ToggleMacro",
-    "Up": "FindPrevious",
+    "Ctrl-k": "FindPrevious",
     "Alt-a": "SelectAll",
     "Alt-b": "CursorPageDown",
     "Alt-[": "CursorPageUp",
