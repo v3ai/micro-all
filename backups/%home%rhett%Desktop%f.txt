@@ -1,0 +1,6 @@
+good systems
+
+guix
+parabola/hyperbola
+pureos
+trisquel
